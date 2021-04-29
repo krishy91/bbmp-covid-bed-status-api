@@ -1,0 +1,1 @@
+# bbmp-covid-bed-status-api
