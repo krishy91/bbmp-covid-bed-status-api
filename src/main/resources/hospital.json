@@ -1,0 +1,47 @@
+[
+  {
+    "id" : "GH001",
+    "name" : "EMPLOYEES STATE INSURANCE CORPORATION Peenya",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "KIADB Housing Complex, Peenya, Bengaluru, Karnataka 560058, India",
+    "pin" : 560058,
+    "latitude" : 13.028777945442997,
+    "longitude" : 77.52311782499238
+  },
+  {
+    "id" : "GH002",
+    "name" : "ESI Hospital Indiranagar",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+    "pin" : 560008,
+    "latitude" : 12.97135267190253,
+    "longitude" : 77.63693135511349
+  },
+  {
+    "id" : "GH003",
+    "name" : "ESIMC PGIMSR MODEL HOSPITAL",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "620/A/1, 12th Main Rd, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+    "pin" : 560010,
+    "latitude" : 12.991835771150058,
+    "longitude" : 77.55389840305229
+  },
+  {
+    "id" : "GH004",
+    "name" : "General Hospital Anekal",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "Weaver Colony, Anekal, Karnataka 562106, India",
+    "pin" : 562106,
+    "latitude" : 12.709641022764863,
+    "longitude" : 77.69552382511695
+  },
+  {
+    "id" : "GH005",
+    "name" : "General Hospital Jayanagar",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "32nd Cross, 4th B Block, beside Rajiv Gandhi Health Institute, Tilak Nagar, Jayanagar, Bengaluru, Karnataka 560041, India",
+    "pin" : 560041,
+    "latitude" : 12.926271850009877,
+    "longitude" : 77.59289852360266
+  }
+]
