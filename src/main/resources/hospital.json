@@ -43,5 +43,14 @@
     "pin" : 560041,
     "latitude" : 12.926271850009877,
     "longitude" : 77.59289852360266
+  },
+  {
+    "id" : "GH006",
+    "name" : "General Hospital Kr Puram",
+    "type" : "GOVERNMENT_HOSPITAL",
+    "address" : "Krishnarajapura, Bengaluru, Karnataka 560036, India",
+    "pin" : 560036,
+    "latitude" : 13.008777313968393,
+    "longitude" : 77.69252150332986
   }
 ]
